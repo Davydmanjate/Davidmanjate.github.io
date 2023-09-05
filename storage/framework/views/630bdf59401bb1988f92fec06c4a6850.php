@@ -1,0 +1,1 @@
+<h1>e isso</h1><?php /**PATH C:\xampp\htdocs\AAMs\resources\views/layerss/index.blade.php ENDPATH**/ ?>
